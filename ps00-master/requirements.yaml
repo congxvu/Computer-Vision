@@ -1,0 +1,10 @@
+name: CS6476
+dependencies:
+- python
+- matplotlib
+- numpy
+- scipy
+- nb_conda
+- pip:
+        - opencv-contrib-python==4.6.0.66
+        - nelson
